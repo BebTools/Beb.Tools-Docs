@@ -1,17 +1,13 @@
-# Beb Tools for Blender
+# Hello and Welcome to Beb Tools!
 
-Welcome to **Beb Tools**, a powerful Blender 4.2 add-on designed to streamline your scripting workflow. Whether you're managing scripts, queuing tasks, or importing files from GitHub, Beb Tools has you covered.
+Hi there, new Blender artist! Beb Tools is a fun little helper that makes working with scripts in Blender super easy. Think of it like a magic toolbox that lets you add cool tricks to Blender without needing to be a computer wizard.
 
-## What is Beb Tools?
-Beb Tools is a collection of utilities integrated into Blender’s 3D Viewport sidebar. It allows you to:
-- Organize, run, and edit Python scripts in the `/scripts/` folder.
-- Queue multiple scripts for sequential execution.
-- Edit script instructions directly in Blender.
-- Import `.py` and `.txt` files from GitHub raw URLs with a single click.
+## What Can Beb Tools Do?
+- **Add Fun Stuff**: Bring new ideas into Blender with just a click.
+- **Run Things Easily**: Make scripts do their magic with a button.
+- **Keep Everything Neat**: Organize your ideas so you can find them fast.
+- **Write Notes**: Add little reminders about what your scripts do.
 
-## Why Use Beb Tools?
-- **Efficiency**: Simplify script management without leaving Blender.
-- **Collaboration**: Import scripts and instructions from GitHub effortlessly.
-- **Flexibility**: Customize and extend your workflow with ease.
+This guide is made just for you—someone who’s new to Blender and wants to have fun with 3D art. Let’s get started together!
 
-Get started with the [Installation Guide](#installation) or jump into the [Quick Start](#getting-started)!
+**[Next Step: How to Add Beb Tools to Blender](#how-to-add-beb-tools-to-blender)**

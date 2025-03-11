@@ -1,24 +1,45 @@
-# Getting Started
+# Your First Steps with Beb Tools
 
-New to Beb Tools? Here’s how to dive in.
+Welcome to your first adventure with Beb Tools! Let’s explore it together and try something fun.
 
-1. **Open Beb Tools**:
-   - In Blender’s 3D Viewport, press `N` to open the sidebar.
-   - Switch to the "Beb.Tools" tab.
+## Finding Beb Tools
+1. Open Blender and look at the 3D View (the big window with the cube).
+2. Press `N` on your keyboard to open the sidebar on the right.
+3. Click the “Beb.Tools” tab—it’s your new best friend!
 
-2. **Load Scripts**:
-   - Click the refresh button (🔄) to load scripts from the `/scripts/` folder.
-   - Select a `.py` file from the list to view its options.
+   *![Picture 5: Opening the Sidebar and Finding Beb Tools]*
 
-3. **Run a Script**:
-   - Right-click a script and choose "Run" (▶) to execute it.
+## Trying It Out
+1. **Look at the Buttons**:
+   - You’ll see a few little icons at the top—like a magnifying glass, a pencil, and some folders.
+   - Below that, there’s a list (it might be empty at first).
 
-4. **Import from GitHub**:
-   - Copy two URLs (e.g., `.py` and `.txt`) from GitHub raw links, like:
+2. **Add a Script**:
+   - Click the folder button with a plus sign (📁+). This makes a new folder to hold your ideas.
+   - Name it something fun, like “My Stuff”, and click OK.
+
+   *![Picture 6: Making a New Folder]*
+
+3. **Refresh the List**:
+   - Click the refresh button (🔄) to see your new folder in the list.
+   - Click on “My Stuff” to open it.
+
+   *![Picture 7: Refreshing and Opening the Folder]*
+
+4. **Make a Tiny Script**:
+   - Click the new file button (📄). Call it “Hello.py” and click OK.
+   - It opens in Blender’s Text Editor. Type this:
      ```
-     https://raw.githubusercontent.com/BebTools/Beb.Tools-Scripts/main/Create%20Collections%20for%20All%20Empties.py
-     https://raw.githubusercontent.com/BebTools/Beb.Tools-Scripts/main/Create%20Collections%20for%20All%20Empties.txt
+     print("Hello, Blender!")
      ```
-   - Click the paste button (📥) to download them into `/scripts/`.
+   - Click the save button (✔️) in Beb Tools to keep it.
 
-Explore more in [Features](#features)!
+   *![Picture 8: Writing and Saving Hello.py]*
+
+5. **Run Your Script**:
+   - Back in Beb Tools, right-click “Hello.py” in the list.
+   - Pick “Run” (▶). Look at the bottom of Blender—a little “Hello, Blender!” message appears!
+
+   *![Picture 9: Running the Script]*
+
+You just made Blender say hello—awesome job! Let’s learn more in [Playing with Scripts](#playing-with-scripts).

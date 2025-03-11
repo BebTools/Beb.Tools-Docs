@@ -1,12 +1,22 @@
-# Troubleshooting
+# Fixing Little Problems
 
-## Installation Fails
-- **Check**: Ensure you’re using Blender 4.2.
-- **Fix**: Verify the `lib/` folder is included in the add-on `.zip`.
+Sometimes things don’t work right—don’t worry, we’ll fix it!
 
-## GitHub Import Fails
-- **Check**: URLs must start with `https://raw.githubusercontent.com/`.
-- **Fix**: Paste both `.py` and `.txt` URLs together.
+## Beb Tools Isn’t Showing
+- **Try**: Close Blender, reopen it, and press `N` again.
+- **Check**: Did you turn it on in `Edit > Preferences > Add-ons`?
 
-## Scripts Don’t Appear
-- **Fix**: Click the refresh button (🔄) or check the `/scripts/` folder path.
+   *![Picture 21: Checking Add-ons]*
+
+## Paste Button Does Nothing
+- **Try**: Make sure you copied two links that start with `https://raw.githubusercontent.com/`.
+- **Example**:
+
+
+ *![Picture 22: Copying the Right Links]*
+
+## Script Didn’t Run
+- **Try**: Click the refresh button (🔄) and run it again.
+- **Check**: Look at the bottom of Blender for a red error message—tell us if you see one!
+
+Still stuck? Ask us at [our website](#) or [GitHub](#)!
