@@ -30,7 +30,7 @@ Hi, welcome to the docs. [Beb.Tools](https://beb.tools) is a Website and a Blend
 {% endtab %}
 
 {% tab title="Open-Source Everything" %}
-* Everything is open-source to promote a UGC environment.
+* Everything is open-source to support a UGC environment.
 
 <figure><img src=".gitbook/assets/website_pop_up.JPG" alt=""><figcaption></figcaption></figure>
 {% endtab %}

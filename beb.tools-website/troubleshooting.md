@@ -1,22 +1,29 @@
-# Fixing Little Problems
+# 🗒️ Getting Scripts
 
-Sometimes things don’t work right—don’t worry, we’ll fix it!
+## How to Download Scripts from Beb.Tools
 
-## Beb Tools Isn’t Showing
-- **Try**: Close Blender, reopen it, and press `N` again.
-- **Check**: Did you turn it on in `Edit > Preferences > Add-ons`?
+<figure><img src="../.gitbook/assets/downloading_scripts.jpg" alt=""><figcaption></figcaption></figure>
 
-   *![Picture 21: Checking Add-ons]*
+## 1. Select a Script
 
-## Paste Button Does Nothing
-- **Try**: Make sure you copied two links that start with `https://raw.githubusercontent.com/`.
-- **Example**:
+<figure><img src="../.gitbook/assets/website.JPG" alt=""><figcaption></figcaption></figure>
 
+## 2. A Pop Up Window Will Appear
 
- *![Picture 22: Copying the Right Links]*
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-## Script Didn’t Run
-- **Try**: Click the refresh button (🔄) and run it again.
-- **Check**: Look at the bottom of Blender for a red error message—tell us if you see one!
+## 3a. Click on the Copy Button on the Beb.Tools Website
 
-Still stuck? Ask us at [our website](#) or [GitHub](#)!
+<figure><img src="../.gitbook/assets/copy_button.jpg" alt=""><figcaption></figcaption></figure>
+
+## 4a. Click on the Paste Button in the Beb.Tools Plugin
+
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+## 3b. Alternative: Click on the Download Button
+
+<figure><img src="../.gitbook/assets/downloading_scripts_man.jpg" alt=""><figcaption></figcaption></figure>
+
+## 4b. Click on the Folder Button in the Beb.Tools Plugin to import
+
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
