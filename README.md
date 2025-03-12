@@ -57,7 +57,3 @@ Hi, welcome to the docs. [Beb.Tools](https://beb.tools) is a Website and a Blend
 <figure><img src=".gitbook/assets/beb_tools_plugin_queue.jpg" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
-
-## Let’s get started!
-
-[**Next Step: How to Add Beb Tools to Blender**](./#how-to-add-beb-tools-to-blender)
