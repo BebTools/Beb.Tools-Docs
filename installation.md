@@ -1,4 +1,4 @@
-# ❓ How to add Beb.Tools to Blender
+# ⬇️ Installing Beb.Tools in Blender
 
 ## Let’s get Beb.Tools into your Blender!
 

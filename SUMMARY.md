@@ -1,7 +1,7 @@
 # Table of contents
 
 * [👋 Welcome to Beb.Tools](README.md)
-* [❓ Installing Beb.Tools in Blender](installation.md)
+* [⬇️ Installing Beb.Tools in Blender](installation.md)
 * [🦾 Getting Started](getting-started.md)
 * [🔗 Beb.Tools Website](beb.tools-website/README.md)
   * [Fixing Little Problems](beb.tools-website/troubleshooting.md)
