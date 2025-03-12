@@ -16,7 +16,7 @@ layout:
 
 ## What is Beb.Tools?
 
-Hi, welcome to the docs. [Beb.Tools](https://beb.tools) is a Website and a Blender Plugin combo. Think of it like a swiss army knife that lets you add and manage custom tools without needing to be a computer wizard.&#x20;
+Hi, welcome to the docs. [Beb.Tools](https://beb.tools) is a Website and a Blender Plugin combo. The website is a community driven Script sharing platform and the Blender Plugin is a Script Manager. Think of the Blender Plugin like a swiss army knife that lets you add and manage custom tools without needing to be a computer wizard while the Website is a Customs Tools Marketplace but everything is open-source and free 😊
 
 <figure><img src=".gitbook/assets/welcome.jpg" alt=""><figcaption></figcaption></figure>
 
