@@ -10,7 +10,7 @@
 
 ## 2. A Pop Up Window Will Appear
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 ## 3a. Click on the Copy Button on the Beb.Tools Website
 
@@ -18,7 +18,7 @@
 
 ## 4a. Click on the Paste Button in the Beb.Tools Plugin
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 3b. Alternative: Click on the Download Button
 
@@ -26,4 +26,4 @@
 
 ## 4b. Click on the Folder Button in the Beb.Tools Plugin to import
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>

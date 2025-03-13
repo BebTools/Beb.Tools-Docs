@@ -8,7 +8,7 @@
 [troubleshooting.md](troubleshooting.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="creator-portal.md" %}
+[creator-portal.md](creator-portal.md)
 {% endcontent-ref %}
 
