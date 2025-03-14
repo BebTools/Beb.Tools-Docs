@@ -7,7 +7,7 @@
 ## What You’ll Need
 
 * [Blender 4.2](http://blender.org/download/releases/4-2/)
-* BebTools.zip (Blender Plugin)
+* [BebTools.zip](https://github.com/BebTools/BebTools/releases) (Blender Plugin)
 
 ## Step-by-Step
 
