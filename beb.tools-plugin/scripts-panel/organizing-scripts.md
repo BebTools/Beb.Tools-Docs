@@ -32,7 +32,7 @@ This feature will search all folders (including subfolders).
 
 <details>
 
-<summary><img src="../../.gitbook/assets/file_folder (1).svg" alt="" data-size="line"> Import from Folder</summary>
+<summary><img src="../../.gitbook/assets/file_folder (1) (1).svg" alt="" data-size="line"> Import from Folder</summary>
 
 Grabs all scripts from a folder on your computer.\
 \
@@ -78,7 +78,7 @@ Useful if doing manual changes to the Addon.
 
 <details>
 
-<summary><img src="../../.gitbook/assets/folder_redirect.svg" alt="" data-size="line"> Open Scripts Folder</summary>
+<summary><img src="../../.gitbook/assets/folder_redirect (1).svg" alt="" data-size="line"> Open Scripts Folder</summary>
 
 Opens the folder where your scripts live on your computer.
 
@@ -86,7 +86,7 @@ Opens the folder where your scripts live on your computer.
 
 <details>
 
-<summary><img src="../../.gitbook/assets/paste_down.svg" alt="" data-size="line"> Paste from Beb.Tools</summary>
+<summary><img src="../../.gitbook/assets/paste_down (1).svg" alt="" data-size="line"> Paste from Beb.Tools</summary>
 
 Paste a script from Beb.Tools to download the .py Script and .txt Read Me at the same time.
 
