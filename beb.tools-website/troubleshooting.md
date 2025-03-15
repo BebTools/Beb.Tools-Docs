@@ -4,26 +4,46 @@
 
 <figure><img src="../.gitbook/assets/downloading_scripts.jpg" alt=""><figcaption></figcaption></figure>
 
-## 1. Select a Script
+## How to 1 Click Download Scripts
+
+{% stepper %}
+{% step %}
+## Select a Script
 
 <figure><img src="../.gitbook/assets/website.JPG" alt=""><figcaption></figcaption></figure>
+{% endstep %}
 
-## 2. A Pop Up Window Will Appear
+{% step %}
+## A Pop Up Window Will Appear
 
 <figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
 
-## 3a. Click on the Copy Button on the Beb.Tools Website
+{% step %}
+## Click on the Copy Button on the Beb.Tools Website
 
 <figure><img src="../.gitbook/assets/copy_button.jpg" alt=""><figcaption></figcaption></figure>
+{% endstep %}
 
-## 4a. Click on the Paste Button in the Beb.Tools Plugin
+{% step %}
+## Click on the Paste Button in the Beb.Tools Plugin
 
 <figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+{% endstepper %}
 
-## 3b. Alternative: Click on the Download Button
+## How to Manually Download (& Batch Import)
+
+{% stepper %}
+{% step %}
+## Click on the Download Button
 
 <figure><img src="../.gitbook/assets/downloading_scripts_man.jpg" alt=""><figcaption></figcaption></figure>
+{% endstep %}
 
-## 4b. Click on the Folder Button in the Beb.Tools Plugin to import
+{% step %}
+## Click on the Folder Button in the Beb.Tools Plugin to import
 
 <figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+{% endstepper %}
