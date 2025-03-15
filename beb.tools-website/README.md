@@ -4,6 +4,8 @@
 
 <figure><img src="../.gitbook/assets/website_banner (1).jpg" alt=""><figcaption></figcaption></figure>
 
+## Jump to:
+
 {% content-ref url="../getting-started.md" %}
 [getting-started.md](../getting-started.md)
 {% endcontent-ref %}

@@ -16,7 +16,7 @@
 
 <figure><img src=".gitbook/assets/plugin.jpg" alt=""><figcaption></figcaption></figure>
 
-{% content-ref url="beb.tools-plugin/" %}
-[beb.tools-plugin](beb.tools-plugin/)
+{% content-ref url="beb.tools-addon/" %}
+[beb.tools-addon](beb.tools-addon/)
 {% endcontent-ref %}
 

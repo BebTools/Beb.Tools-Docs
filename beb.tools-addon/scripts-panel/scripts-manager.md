@@ -1,12 +1,16 @@
-# 📂 File Browser
+# 📂 Scripts Manager
 
-## Scripts File Browser
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/SCRIPTS.jpg" alt=""><figcaption></figcaption></figure>
+
+## Scripts Panel: File Browser
+
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Selecting a Folder
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 <details>
 
@@ -52,7 +56,7 @@ Tosses your folder and everything in it! Be careful.
 
 ## Selecting a Script
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 <details>
 

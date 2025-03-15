@@ -1,4 +1,10 @@
-# 🕹️ Top Row Buttons
+# 🎮 Scripts Buttons
+
+
+
+<figure><img src="../../.gitbook/assets/SCRIPTS.jpg" alt=""><figcaption></figcaption></figure>
+
+## Scripts Panel: Buttons
 
 <figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 

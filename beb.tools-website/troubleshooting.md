@@ -1,10 +1,8 @@
 # 🗒️ Getting Scripts
 
-## How to Download Scripts from Beb.Tools
+<figure><img src="../.gitbook/assets/GETTING SCRIPTS.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/downloading_scripts.jpg" alt=""><figcaption></figcaption></figure>
-
-## How to 1 Click Download Scripts
+## How to 1 Click Download Scripts from Beb.Tools
 
 {% stepper %}
 {% step %}
@@ -28,7 +26,7 @@
 {% step %}
 ## Click on the Paste Button in the Beb.Tools Plugin
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
@@ -44,6 +42,6 @@
 {% step %}
 ## Click on the Folder Button in the Beb.Tools Plugin to import
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
