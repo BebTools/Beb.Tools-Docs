@@ -7,7 +7,7 @@
   * [🗒️ Getting Scripts](beb.tools-website/troubleshooting.md)
   * [🌀 Creator Portal](beb.tools-website/creator-portal.md)
 * [🔌 Beb.Tools Plugin](beb.tools-plugin/README.md)
-  * [Keeping Scripts Tidy](beb.tools-plugin/organizing-scripts.md)
+  * [❓ Scripts Panel](beb.tools-plugin/organizing-scripts.md)
   * [Making Scripts Work](beb.tools-plugin/running-scripts.md)
   * [Adding Notes to Scripts](beb.tools-plugin/script-instructions.md)
 * [ℹ️ What’s New](whats-new.md)

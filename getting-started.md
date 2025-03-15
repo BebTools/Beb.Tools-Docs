@@ -1,5 +1,9 @@
 # 🦾 Getting Started
 
+## Beb.Tools Video Walkthrough
+
+{% embed url="https://youtu.be/mpfbPavRzIs?si=4pC8n6gT2xHmWNkl" %}
+
 ## Beb.Tools Website
 
 <figure><img src=".gitbook/assets/website_banner (1).jpg" alt=""><figcaption></figcaption></figure>

@@ -20,7 +20,13 @@ Hi, welcome to the docs. [Beb.Tools](https://beb.tools) is a Website and a Blend
 
 <figure><img src=".gitbook/assets/welcome.jpg" alt=""><figcaption></figcaption></figure>
 
-## Website: Beb.Tools
+## Want to jump right in?
+
+{% content-ref url="getting-started.md" %}
+[getting-started.md](getting-started.md)
+{% endcontent-ref %}
+
+## Website Features
 
 {% tabs %}
 {% tab title="Website (Downloading Scripts)" %}
@@ -36,7 +42,7 @@ Hi, welcome to the docs. [Beb.Tools](https://beb.tools) is a Website and a Blend
 {% endtab %}
 {% endtabs %}
 
-## Blender Plugin: Beb.Tools
+## Add-on Features
 
 {% tabs %}
 {% tab title="Folder Management" %}

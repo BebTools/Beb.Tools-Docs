@@ -4,14 +4,14 @@
 
 * Log In or Out: Use your GitHub account to sign in. Once you’re in, all the portal features unlock. When you’re done, just hit “Log Out” from the dropdown next to your profile.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 ## Upload Your Scripts
 
 * Upload Script: Pick one of your scripts, then drag and drop your Blender script file (.py), a description file (.txt), and a picture (.jpg). They need to have the same name—like MyScript.py, MyScript.txt, and MyScript.jpg. Hit “Upload Script,” and it’s live!
 * What It Does: Shares your script with other Beb.Tools users so they can download and use it in Blender.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Manage Your Repositories
 
